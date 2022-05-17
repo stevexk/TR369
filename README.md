@@ -8,6 +8,7 @@ Please follow the agent settings
 ##### Agent Settings Example:
             Device.LocalAgent.Controller.1.MTP.1.Enable => true
             Device.LocalAgent.Controller.1.MTP.1.Protocol => MQTT
+            Device.LocalAgent.Controller.1.MTP.1.MQTT.Reference => Device.MQTT.Client.1
             Device.LocalAgent.Controller.1.MTP.1.MQTT.Topic => /usp/DQAEMUhT/controller
             Device.LocalAgent.Controller.1.Enable => true
             Device.LocalAgent.Controller.1.EndpointID => os::DQAEMUhT
