@@ -1,5 +1,5 @@
 # TR369
-User Services Platform  server to manage tr369 devices.
+USP - User Services Platform  server to manage tr369 devices.
 
 Demo site for usp agent test here
 http://usp.kmeisoft.com:8899/
